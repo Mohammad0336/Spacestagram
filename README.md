@@ -9,7 +9,7 @@ This is the initial state of the webpage prior to any calls to the API it instru
 ![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/SpacestagramInfo.png)
 
 ### Fetch example
-This is an example of the fetch function it selects 5 photos to be displayed alongside it's id and earth date.
+This is an example of the fetch function it selects 5 photos to be displayed alongside it's id and earth date `You must click on the foward or backward arrows to view images, and escape from the initial state` .
 
 ![This is an image](https://github.com/Mohammad0336/Spacestagram/blob/main/Images/SpacestagramEx.png)
 
