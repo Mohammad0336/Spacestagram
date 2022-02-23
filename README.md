@@ -1,8 +1,6 @@
 # Spacestagram
 Using Public NASA API an image browsing front-end was made to resemble a social media like Instagram's front-end. The page uses a scrollbar to limit the size of the webpage, and to be able to display 5 photos synchronously.
 
-Test it out (https://hamza-asif.com/Spacestagram/index.html).
-
 ## Functions
 
 ### Information state
